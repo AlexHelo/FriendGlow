@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: FriendGlow
+## Notes: Spot your party, friends and guild in a crowd: green name plus a green triangle over their head. Works with Blizzard nameplates and Plater.
+## Author: Alaska
+## Version: 1.2.2
+## SavedVariables: FriendGlowDB
+## X-License: MIT
+
+FriendGlow.lua
